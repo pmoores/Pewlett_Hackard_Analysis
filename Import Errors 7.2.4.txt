@@ -1,0 +1,1 @@
+titles import errorERROR: duplicate key value violates unique constraint "titles_pkey"DETAIL: Key (emp_no)=(10004) already exists.CONTEXT: COPY titles, line 6dept_emp import errorERROR: value too long for type character varying(4)CONTEXT: COPY dept_emp, line 2, column dept_no: "10001"
