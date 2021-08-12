@@ -18,7 +18,8 @@ The purpose of this assignment is to use SQL to:
 - There are 1549 employees eligible for a mentorship program (Figure 1: [Count of Employees Eligible for Mentorship Prog](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Eligible%20for%20Mentorship%20Prog.png)).
 
 - Senior Staff has the most employees eligible for a mentorship program (n=418), followed by Engineer
- (n=387), Staff (n=306), Senior Engineer (n=302), Technique Leader (n=77) and Assistant Engineer (n=59) (Figure 2: [Count of Employees Eligible for Mentorship by Title] (https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Mentorship%20Eligibility%20by%20Title.png)).
+ (n=387), Staff (n=306), Senior Engineer (n=302), Technique Leader (n=77) and Assistant Engineer (n=59) (Figure 2: [Count of Employees Eligible for Mentorship by Title](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Mentorship%20Eligibility%20by%20Title.png)).
+
 
 ## Summary - Pewlett Hackard Analysis 
 ### Questions
