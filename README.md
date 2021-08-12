@@ -15,7 +15,7 @@ The purpose of this assignment is to use SQL to:
 
 
 ### Employees Eligible to Participate in Mentorship Program
-- There are 1549 employees eligible for a mentorship program [Count of Eligible for Mentorship Prog](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Eligible%20for%20Mentorship%20Prog.png)
+- There are 1549 employees eligible for a mentorship program (Figure 1: [Count of Eligible for Mentorship Prog](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Eligible%20for%20Mentorship%20Prog.png))
 -
 
 
