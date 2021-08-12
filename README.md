@@ -12,11 +12,10 @@ The purpose of this assignment is to use SQL to:
 ### Number of Retiring Employees per Title
 - 
 -
--
--
+
 
 ### Employees Eligible to Participate in Mentorship Program
--
+- There are 1549 employees eligible for a mentorship program [Count of Eligible for Mentorship Prog](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Eligible%20for%20Mentorship%20Prog.png)
 -
 
 
@@ -29,6 +28,6 @@ Answer:
 Answer:
 
 ### Suggested Additional Queries
-#### Suggestion 1: Retiring Employees by Department - Which departments will be impacted the most/least by the upcoming "silver tsunami."
+ - Suggestion 1: Retiring Employees by Department - Which departments will be impacted the most/least by the upcoming "silver tsunami."
 
-#### Suggestion 2: Retiring Employees by Specific Year of Retirement - Narrow the range of retirement eligibility to individual years (1952, 1953, 1954, 1955) to determine which years will be impacted the most/least by the upcoming "silver tsunami."
+ - Suggestion 2: Retiring Employees by Specific Year of Retirement - Narrow the range of retirement eligibility to individual years (1952, 1953, 1954, 1955) to determine which years will be impacted the most/least by the upcoming "silver tsunami."
