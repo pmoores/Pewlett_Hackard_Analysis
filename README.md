@@ -10,7 +10,7 @@ The purpose of this assignment is to use SQL to:
 
 ## Results - Pewlett Hackard Analysis
 ### Number of Retiring Employees per Title
-- 
+- The total number of retiring employees is 90,398
 -
 
 

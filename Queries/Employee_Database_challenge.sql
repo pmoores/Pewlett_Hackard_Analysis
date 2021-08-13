@@ -23,12 +23,12 @@ last_name,
 title
 INTO unique_titles
 FROM retirement_titles
+-- Solution via discussion with TA Sunny Patel on Slack Aug 12-2021
 ORDER BY emp_no ASC, to_date DESC;
 
 
 -- 1.15 to 1.18 Retrieve the number of employees who are about to retire 
 -- by their most recent job title
--- Solution via discussion with TA Sunny Patel on Slack Aug 12-2021
 SELECT COUNT(title), title
 INTO retiring_titles
 FROM unique_titles
