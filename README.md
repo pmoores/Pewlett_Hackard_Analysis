@@ -32,3 +32,7 @@ Answer:
  - Suggestion 1: Retiring Employees by Department - Use this to determine which departments will be impacted the most/least by the upcoming "silver tsunami."
 
  - Suggestion 2: Retiring Employees by Specific Year of Retirement - Narrow the range of retirement eligibility to individual years (1952, 1953, 1954, 1955) to determine which specific years will be impacted the most/least by the upcoming "silver tsunami."
+
+## Deliverables
+- [Employee_Database_challenge.sql](https://github.com/pmoores/Pewlett_Hackard_Analysis/tree/main/Queries/Employee_Database_challenge.sql)
+- finish rest of list
