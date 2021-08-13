@@ -12,9 +12,9 @@ The purpose of this assignment is to use SQL to:
 
 ### Number of Retiring Employees per Title
 
-- The total number of retiring employees is 90,398 (Figure 1: [Count of Employees About to Retire](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Employees%20About%20to%20Retire.png).
+- The total number of retiring employees is 90,398 (Figure 1: [Count of Employees About to Retire](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Employees%20About%20to%20Retire.png)).
 
-- Senior Engineers (n=29,414) and Senior Staff (n=28,254) job titles will be most impacted by these retirements, while Managers (n=2) are least impacted (Figure 2: [Count of Employees About to Retire by Title](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Employees%20About%20to%20Retire%20by%20Title.png).
+- Senior Engineers (n=29,414) and Senior Staff (n=28,254) job titles will be most impacted by these retirements, while Managers (n=2) are least impacted (Figure 2: [Count of Employees About to Retire by Title](https://github.com/pmoores/Pewlett_Hackard_Analysis/blob/main/Data/Count%20of%20Employees%20About%20to%20Retire%20by%20Title.png)).
 
 
 ### Employees Eligible to Participate in Mentorship Program
